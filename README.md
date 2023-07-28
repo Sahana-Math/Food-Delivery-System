@@ -23,13 +23,13 @@ The Online Food Delivery System is a C++ project developed during the "Object-Or
 - Hotel Management:
   - Manage the list of available food items with their respective prices.
   - Update food items and their prices as needed.
-  - Track orders placed by customers.
-  - Manage the status of orders (e.g., "Pending," "Out for Delivery," "Delivered").
+  - Delete food items from the menu.
+  - Add new items to the menu.
 
 - Delivery:
   - Assign delivery personnel to orders.
   - Update the status of deliveries ("Out for Delivery," "Delivered").
-  - Manage the status of orders (e.g., "Delivered").
+  
 
 ## Technologies Used
 
@@ -45,7 +45,4 @@ git clone https://github.com/Sahana-Math/Food-Delivery-System.git
 
 ```
 
-## Contributors
-<a href="https://github.com/Sahana-Math/Food-Delivery-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sahana-Math/Food-Delivery-System" />
-</a>
+
